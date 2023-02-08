@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background: #222;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.module-border-wrap {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, purple);
+  padding: 5px;
+}
+
+.module {
+  background: #222;
+  color: white;
+  padding: 2rem;
+}
+
+img {
+
+  width: 100vw;
+  
+
+}
+
+button {
+
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+
+}
+
+a {
+
+  text-decoration: none;
+  color: rgb(237, 199, 210);
+
+
+}
